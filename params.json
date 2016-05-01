@@ -1,6 +1,6 @@
 {
   "name": "여다슬 소개 페이지",
   "tagline": "",
-  "body": "#여다슬 세상\r\n##부제목\r\n\r\n자세한 설명들은 이렇게 그냥 작성해주시면 됩니다.\r\n\r\n```ruby\r\nputs\"hello world!\"\r\n```",
+  "body": "#여다슬 세상\r\n##부제목\r\n\r\n자세한 설명들은 이렇게 그냥 작성해주시면 됩니다.\r\n\r\n```ruby\r\nputs\"hello world!\"\r\nputs \"hi\"\r\n```",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
